@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorena-rios&show_icons=true&locale=en&layout=compact" alt="lorena-rios" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorena-rios&" alt="lorena-rios" /></p>
+ 
 
 </div>
 
