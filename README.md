@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lorena-Rios/Lorena-Rios/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lorena-Rios/Lorena-Rios/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lorena-Rios/Lorena-Rios/output/pacman-contribution-graph.svg">
-</picture>
+![](https://github-readme-stats.vercel.app/api?username=Lorena-Rios&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lorena-Rios&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorena-Rios&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 
