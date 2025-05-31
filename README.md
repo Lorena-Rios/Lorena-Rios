@@ -1,8 +1,20 @@
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/2b/98/40/2b98409728274fda05b1306b8b40e563.jpg"  />
+</div>
+
+###
+
+<h1 align="left">👋</h1>
+
+###
+
+<p align="left">🎓 Estudante de Sistemas de Informação — UNIFTC/UNEX<br>🚀 Apaixonada por tecnologia, design e desenvolvimento<br><br>🖥️ Interesses:<br>Desenvolvimento de Front<br>UI/UX Design<br>Inteligência Artificial<br><br>🎨 Hobbies e Interesses:<br>Pintur, jogos, escrever e codar de vez em quando, só por diversãos.</p>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorena-Rios&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorena-Rios&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lorena-Rios&locale=pt-br&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorena-Rios&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lorena-Rios&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
