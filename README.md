@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Sistemas de Informação — UNEX<br>🖥️ Interesses:<br>Desenvolvimento FrontEnd<br>UI/UX Design<br>Inteligência Artificia<br>🎨 Hobbies e Interesses:<br>Pintar, jogos, escrever e codar de vez em quando, só por diversão</p>
+<p align="left">🎓 Estudante de Sistemas de Informação — UNEX<br><br>🖥️ Interesses:<br>Desenvolvimento FrontEnd<br>UI/UX Design<br>Inteligência Artificia<br><br>🎨 Hobbies e Interesses:<br>Pintar, jogos, escrever e codar de vez em quando, só por diversão</p>
 
 ###
 <h5 align="center">___________________________________________________________________________________________________________________________</h5>
