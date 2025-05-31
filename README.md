@@ -11,6 +11,8 @@
 <p align="left">🎓 Estudante de Sistemas de Informação — UNEX<br>🚀 Apaixonada por tecnologia, design e desenvolvimento<br><br>🖥️ Interesses:<br>Desenvolvimento FrontEnd<br>UI/UX Design<br>Inteligência Artificial<br><br>🎨 Hobbies e Interesses:<br>Pintar, jogos, escrever e codar de vez em quando, só por diversão</p>
 
 ###
+<h5 align="center">___________________________________________________________________________________________________________________________</h5>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorena-Rios&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="150" alt="languages graph"  />
