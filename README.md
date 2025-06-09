@@ -59,13 +59,13 @@
 </div>
 
 ###
-<h5 align="center">___________________________________________________________________________________________________________________________</h5>
+<!---<h5 align="center">___________________________________________________________________________________________________________________________</h5>
 
 
 <div align="center">
   <a href="https://open.spotify.com/user/w1e42mpouktb8b07tjnvakfrj">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=w1e42mpouktb8b07tjnvakfrj&count=3&unique=false" alt="Spotify recently played"  />
   </a>
-</div>
+</div>--->
 
 ###
