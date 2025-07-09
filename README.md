@@ -14,7 +14,7 @@
 <h5 align="center">___________________________________________________________________________________________________________________________</h5>
 
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lorena-Rios&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Lorena-Rios&locale=en&mode=daily&theme=blueberry&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
